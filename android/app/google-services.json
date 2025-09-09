@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726812534630",
+    "project_id": "delivery-app-9467c",
+    "storage_bucket": "delivery-app-9467c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726812534630:android:a37a1a7c0267010ce00aa7",
+        "android_client_info": {
+          "package_name": "com.bernadin.dev.flash_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiCjRf2W3O8f2oTrtDj-lUZyO5Y9CupVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
